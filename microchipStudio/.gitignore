@@ -1,0 +1,22 @@
+*.d
+*.xml
+*.o
+*.rst
+# .vs
+# Config
+# .atmelstart
+.atmel-start-backup
+Debug
+Release
+*.elf
+*.hex
+*.lss
+*.map
+*.srec
+documentation
+doxygen
+# examples
+modules
+*.code-workspace
+.vscode
+.atsuo
